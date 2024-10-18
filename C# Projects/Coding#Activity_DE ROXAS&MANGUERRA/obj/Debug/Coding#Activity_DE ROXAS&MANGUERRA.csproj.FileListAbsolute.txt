@@ -1,0 +1,7 @@
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\bin\Debug\Coding#Activity_DE ROXAS&MANGUERRA.exe.config
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\bin\Debug\Coding#Activity_DE ROXAS&MANGUERRA.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\bin\Debug\Coding#Activity_DE ROXAS&MANGUERRA.pdb
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\obj\Debug\Coding#Activity_DE ROXAS&MANGUERRA.csproj.AssemblyReference.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\obj\Debug\Coding#Activity_DE ROXAS&MANGUERRA.csproj.CoreCompileInputs.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\obj\Debug\Coding#Activity_DE ROXAS&MANGUERRA.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Coding#Activity_DE ROXAS&MANGUERRA\obj\Debug\Coding#Activity_DE ROXAS&MANGUERRA.pdb

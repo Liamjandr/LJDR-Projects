@@ -1,0 +1,7 @@
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\obj\Debug\DE ROXAS_Loan Approval System.csproj.AssemblyReference.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\obj\Debug\DE ROXAS_Loan Approval System.csproj.CoreCompileInputs.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\bin\Debug\DE ROXAS_Loan Approval System.exe.config
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\bin\Debug\DE ROXAS_Loan Approval System.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\bin\Debug\DE ROXAS_Loan Approval System.pdb
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\obj\Debug\DE ROXAS_Loan Approval System.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\DE ROXAS_Loan Approval System\obj\Debug\DE ROXAS_Loan Approval System.pdb

@@ -1,0 +1,7 @@
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\obj\Debug\ITEC102_10-14-24#Activity-DE ROXAS.csproj.AssemblyReference.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\obj\Debug\ITEC102_10-14-24#Activity-DE ROXAS.csproj.CoreCompileInputs.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\bin\Debug\ITEC102_10-14-24#Activity-DE ROXAS.exe.config
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\bin\Debug\ITEC102_10-14-24#Activity-DE ROXAS.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\bin\Debug\ITEC102_10-14-24#Activity-DE ROXAS.pdb
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\obj\Debug\ITEC102_10-14-24#Activity-DE ROXAS.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\ITEC102_10-14-24#Activity-DE ROXAS\obj\Debug\ITEC102_10-14-24#Activity-DE ROXAS.pdb
