@@ -1,0 +1,7 @@
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\bin\Debug\Bonus#ITEC102_DE ROXAS.exe.config
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\bin\Debug\Bonus#ITEC102_DE ROXAS.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\bin\Debug\Bonus#ITEC102_DE ROXAS.pdb
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\obj\Debug\Bonus#ITEC102_DE ROXAS.csproj.AssemblyReference.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\obj\Debug\Bonus#ITEC102_DE ROXAS.csproj.CoreCompileInputs.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\obj\Debug\Bonus#ITEC102_DE ROXAS.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Bonus#ITEC102_DE ROXAS\obj\Debug\Bonus#ITEC102_DE ROXAS.pdb

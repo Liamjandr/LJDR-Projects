@@ -1,0 +1,7 @@
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\obj\Debug\Mix&Match_Samaniego&&De Roxas.csproj.AssemblyReference.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\obj\Debug\Mix&Match_Samaniego&&De Roxas.csproj.CoreCompileInputs.cache
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\bin\Debug\Mix&Match_Samaniego&&De Roxas.exe.config
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\bin\Debug\Mix&Match_Samaniego&&De Roxas.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\bin\Debug\Mix&Match_Samaniego&&De Roxas.pdb
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\obj\Debug\Mix&Match_Samaniego&&De Roxas.exe
+C:\Users\liamj\Documents\#SCHOOL\# - LSPU\Coding Works & Projects\C#\ITEC 102 - C#\Mix&Match_Samaniego&&De Roxas\obj\Debug\Mix&Match_Samaniego&&De Roxas.pdb
