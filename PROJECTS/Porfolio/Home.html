@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPK5QiAj6Ta86w+fsb@TkcmFRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins%3Awght%40100%3B200%3B300%3B400%3B500%3B600&display=swap%27%29%3B">
+    <title>Liam</title>
+    <script src="script.js"></script>
+</head>
+<body>
+<div>
+    <!-- Nav -->
+    <nav>
+        <a href="#" class="logo"><img src="images/Logo2.png" alt="" class="imglogo"><span> L</span>iam</a>
+        <div class="navbutton">
+            <div class="sidebar">
+                <ul>
+                    <li onclick=Home()><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Projects</a></li>
+                    
+                </ul>       
+            </div>
+            
+        </div>
+        <div class="navbutton">
+            <div class="navbar">
+                <ul>
+                    <li class="hideOnMobile"><a href="#home" class="activenav">Home</a></li>
+                    <li class="hideOnMobile"><a href="#about">About</a></li>
+                    <li class="hideOnMobile"><a href="#projects">Projects</a></li>
+                    <li class="menu-button" onclick=showSidebar()><a href="#" class="menubar"><i id="menu-icon" class="fa-solid fa-bars"></i></a></li>   
+                </ul>    
+            </div> 
+        </div>
+    </nav>
+
+</div>
+<div>
+</div>
+    <!--Main Page-->
+<section id="home">
+    <img src="images/Fname.gif" alt="" class="Fname">
+    <div class="Home-Text">
+        <h1 class="mainpage"><strong>Developer</strong></h1>
+    </div>
+    <div class="main-button">
+        <a href="https://github.com/Liamjandr" class="M-button"><Strong>Github</Strong></a>
+    </div>
+</section>
+
+<div class="share">
+    <p><strong>Socials</strong></p>
+    <div class="socials">
+        <a href="https://www.facebook.com/liamjan.deroxas"><i class="fa-brands fa-facebook"></i></a>
+        <a href="www.linkedin.com/in/liam-de-roxas-b428b532a"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+        <a href="#"><i class="fa-brands fa-discord"></i></a>
+    </div>
+</div>
+
+
+
+
+</div>
+<section id="about">
+    <div class="about-contain">
+        <div class="about-component">
+            <div class="aboutElement">
+                <img src="images/image.jpg">
+            </div>
+            <div class="aboutElement2">
+                <h1 class="subTitle">About Me</h1>
+                <p class="Hmessage">Hi there! I'm Liam, an enthusiastic and aspiring developer, currently <br>a first-year Computer Science student.
+                    I'm passionate about <br>honing my skills and growing in the field of tech.</p>
+                <div class="tab-titles">
+                    <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                    <p class="tab-links" onclick="opentab('education')">Education</p>
+                </div>
+                <div class="tab-contents active-tab" id="skills">
+                    <ul>
+                        <li><span>HTML & CSS</span><br>Simple UI Designs</li>
+                        <li><span>C#</span><br>Game Development</li>
+                        <li><span>Art</span><br>Pixel Art Buttons & Lettering</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="experience">
+                    <ul>
+                        <li><span>On Process</span><br>Currently gathering experiences.</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="education">
+                    <ul>
+                        <li><span>Senior High School</span><br>Los Baños Senior High School (2022-2024)</li>
+                        <li><span>Junior High School</span><br>Morning Star Montessori School, Inc. (2021-2022)</li>
+                        
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--------------Projects--------------->
+
+<sections id="projects">
+    <div class="project-contain">
+        <h1 class="subtitle">My Projects</h1>
+        <div class="project-lists">
+            <div>
+                <h2>Personal Website</h2>
+                <p>One of my projects is this personal website. It is still a work in progress and can be improved.</p>
+                <a href="#">Click here.</a>
+            </div>
+            <div>
+                <h2>Cubab</h2>
+                <p>Cubab is a game I made back in 2022, during the COVID era. It is a game I learned to create through online tutorials.</p>
+                <a href="#">Click here.</a>
+            </div>
+            <div>
+                <h2>C#</h2>
+                <p>The C# projects I created were class activities provided by our teacher, Sir Villareal, in the ITEC 102 Fundamentals of Programming course.</p>
+                <a href="#">Click here.</a>
+            </div>    
+        </div>
+    </div>
+
+</section>
+
+<!--Js-->
+<script>
+       var tablinks = document.getElementsByClassName("tab-links");
+    var tabcontents = document.getElementsByClassName("tab-contents");
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classList.remove("active-link")
+        }
+        for(tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab")
+        }
+        event.currentTarget.classList.add("active-link");
+        document.getElementById(tabname).classList.add("active-tab");
+       
+    }
+</script>
+<script>
+    function showSidebar(){
+        const sidebar = document.querySelector('.sidebar')
+        sidebar.style.display = 'flex'
+        }
+
+    function Home(){
+         const sidebar = document.querySelector('.sidebar')
+        sidebar.style.display = 'None'
+    }
+</script>
+
+
+</body>
+</html>
